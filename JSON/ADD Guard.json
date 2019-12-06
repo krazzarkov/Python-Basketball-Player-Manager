@@ -1,0 +1,12 @@
+
+{
+	"player_id": 3,
+	"first_name": "Rajon",
+	"last_name": "Rondo",
+	"height": 685,
+	"weight": 90,
+	"year_drafted": 1999,
+	"player_type": "guard",
+	"num_steals": 27,
+	"num_assits": 15
+}

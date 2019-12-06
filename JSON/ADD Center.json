@@ -1,0 +1,11 @@
+{
+	"player_id": 1,
+	"first_name": "Dwight",
+	"last_name": "Haward",
+	"height": 185,
+	"weight": 70,
+	"year_drafted": 2001,
+	"player_type": "center",
+	"num_rebounds": 23,
+	"play_type": "Aggressive"
+}

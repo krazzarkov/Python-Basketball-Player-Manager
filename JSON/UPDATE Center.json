@@ -1,0 +1,11 @@
+{
+	"player_id": 1,
+	"first_name": "Kraz",
+	"last_name": "Zarkov",
+	"height": 180,
+	"weight": 80,
+	"year_drafted": 2015,
+	"player_type": "center",
+	"num_rebounds": 50,
+	"play_type": "Weak"
+}

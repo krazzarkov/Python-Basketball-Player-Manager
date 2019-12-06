@@ -1,0 +1,12 @@
+
+{
+	"player_id": 2,
+	"first_name": "Yang",
+	"last_name": "Liu",
+	"height": 185,
+	"weight": 90,
+	"year_drafted": 2010,
+	"player_type": "forward",
+	"num_shots_took": 50,
+	"num_shots_made": 40
+}
